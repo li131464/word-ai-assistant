@@ -35,7 +35,7 @@
 
 1. 克隆项目：
    ```bash
-   git clone https://github.com/your-username/word-ai-assistant.git
+   git clone https://github.com/li131464/word-ai-assistant.git
    cd word-ai-assistant
    ```
 
